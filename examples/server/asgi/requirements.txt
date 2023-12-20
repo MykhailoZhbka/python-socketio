@@ -1,0 +1,8 @@
+Click==7.1.2
+h11==0.11.0
+httptools==0.1.1
+python-engineio
+python_socketio
+uvicorn==0.13.1
+uvloop==0.14.0
+websockets==9.1
